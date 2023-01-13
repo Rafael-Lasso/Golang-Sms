@@ -9,25 +9,6 @@
 <br>
 <hr>
 
-<style>
-
-a {
-    color: red;
-    transition: all .6s;
-    text: none;
-}
-
-a:hover {
-    color: #b61212;
-    transition: all .6s;
-    text-decoration: none;
-}
-
-.imgs {
-    display: flex
-}
-
-</style>
 
 ## SMS
 
